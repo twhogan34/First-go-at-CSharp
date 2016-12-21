@@ -1,0 +1,7 @@
+/Users/Tech-A28/Projects/Demo/Demo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Tech-A28/Projects/Demo/Demo/bin/Debug/Demo.exe.mdb
+/Users/Tech-A28/Projects/Demo/Demo/bin/Debug/Demo.exe
+/Users/Tech-A28/Projects/Demo/Demo/obj/x86/Debug/Demo.exe
+/Users/Tech-A28/Projects/Demo/Demo/obj/x86/Debug/Demo.exe.mdb
+/Users/Tech-A28/Projects/Demo/Demo/bin/Debug/WebDriver.dll
+/Users/Tech-A28/Projects/Demo/Demo/bin/Debug/nunit.framework.dll
